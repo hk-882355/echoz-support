@@ -1,8 +1,8 @@
-# ECHOES - App Store メタデータ
+# ECHOZ - App Store メタデータ
 
 ## 基本情報
 
-- **アプリ名**: ECHOES
+- **アプリ名**: ECHOZ
 - **カテゴリ**: ソーシャルネットワーキング
 - **サブカテゴリ**: ライフスタイル
 - **年齢制限**: 12+（まれ/軽度なアダルトコンテンツ）
@@ -19,13 +19,13 @@
 
 ### 説明文（4000文字以内）
 ```
-ECHOES — 今この瞬間の感情を、世界と共鳴させる。
+ECHOZ — 今この瞬間の感情を、世界と共鳴させる。
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-■ ECHOESとは？
+■ ECHOZとは？
 
-ECHOESは、「今の気持ち」を大切にする新しい形のソーシャルアプリです。
+ECHOZは、「今の気持ち」を大切にする新しい形のソーシャルアプリです。
 
 1日に届く通知をきっかけに、その瞬間の感情を短い言葉で投稿。
 同じ気分を選んだ人々の投稿が「Echo Chain」として繋がり、
@@ -78,7 +78,7 @@ ECHOESは、「今の気持ち」を大切にする新しい形のソーシャ�
 ━━━━━━━━━━━━━━━━━━━━━━
 
 今の気持ちを、そっと世界に。
-ECHOESで、静かな共鳴を始めましょう。
+ECHOZで、静かな共鳴を始めましょう。
 ```
 （約750文字）
 
@@ -106,13 +106,13 @@ Share moments. Feel connected.
 
 ### Description
 ```
-ECHOES — Share your emotions. Resonate with the world.
+ECHOZ — Share your emotions. Resonate with the world.
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-■ What is ECHOES?
+■ What is ECHOZ?
 
-ECHOES is a new kind of social app that cherishes "how you feel right now."
+ECHOZ is a new kind of social app that cherishes "how you feel right now."
 
 Receive random notifications throughout the day, prompting you to share your current emotion in a few words. Your post connects with others who chose the same mood through "Echo Chain" — a quiet resonance with strangers around the world.
 
@@ -163,7 +163,7 @@ Receive random notifications throughout the day, prompting you to share your cur
 ━━━━━━━━━━━━━━━━━━━━━━
 
 Share your feelings with the world, quietly.
-Start your journey of resonance with ECHOES.
+Start your journey of resonance with ECHOZ.
 ```
 
 ### Keywords (100 characters)
@@ -192,7 +192,7 @@ Share your emotions, resonate with strangers. Random notifications prompt you to
 
 ### Japanese
 ```
-ECHOES 1.0 — 初回リリース
+ECHOZ 1.0 — 初回リリース
 
 今の気持ちを、そっと世界と共鳴させる。
 あなたの感情の旅が始まります。
@@ -200,7 +200,7 @@ ECHOES 1.0 — 初回リリース
 
 ### English
 ```
-ECHOES 1.0 — Initial Release
+ECHOZ 1.0 — Initial Release
 
 Share your emotions, resonate with the world.
 Your journey of feelings begins now.
@@ -212,7 +212,7 @@ Your journey of feelings begins now.
 
 ### 価格
 - **基本**: 無料
-- **App内課金**: ECHOES Premium（月額¥480予定）
+- **App内課金**: ECHOZ Premium（月額¥480予定）
 
 ### 対応デバイス
 - iPhone（iOS 17.0以降）

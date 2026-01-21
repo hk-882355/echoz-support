@@ -1,4 +1,4 @@
-# ECHOES - スクリーンショット撮影ガイド
+# ECHOZ - スクリーンショット撮影ガイド
 
 ## 必要なサイズ
 
@@ -113,7 +113,7 @@ xcrun simctl io booted screenshot ~/Desktop/screenshot1.png
 │  │               │  │
 │  └───────────────┘  │
 │                     │
-│      ECHOES         │  ← 下部 10%
+│      ECHOZ         │  ← 下部 10%
 │                     │
 └─────────────────────┘
 ```
@@ -158,10 +158,10 @@ xcrun simctl io booted screenshot ~/Desktop/screenshot1.png
 ## 出力ファイル命名規則
 
 ```
-ECHOES_[言語]_[サイズ]_[番号]_[画面名].png
+ECHOZ_[言語]_[サイズ]_[番号]_[画面名].png
 
 例:
-ECHOES_ja_6.7inch_01_splash.png
-ECHOES_ja_6.7inch_02_posting.png
-ECHOES_en_6.7inch_01_splash.png
+ECHOZ_ja_6.7inch_01_splash.png
+ECHOZ_ja_6.7inch_02_posting.png
+ECHOZ_en_6.7inch_01_splash.png
 ```
